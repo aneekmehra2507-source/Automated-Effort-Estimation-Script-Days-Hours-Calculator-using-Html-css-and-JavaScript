@@ -12,7 +12,7 @@ Users can input component/task details, including:
 <li>Number of Pages</li>
 </ol>
 
-A dynamic “Add Component/Task” button enables users to log multiple entries.
+A dynamic <b>Add Component/Task</b> button enables users to log multiple entries.
 
 Each added task is instantly displayed for review.
 
