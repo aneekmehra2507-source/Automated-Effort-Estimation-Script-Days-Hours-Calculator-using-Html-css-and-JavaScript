@@ -1,0 +1,2 @@
+# Automated-Effort-Estimation-Script-Days-Hours-Calculator-using-Html-css-and-JavaScript
+Developed a responsive and interactive web-based tool using HTML, CSS, and JavaScript that allows users to estimate total time required for completing multiple components or tasks.  Key Features:  Users can input component/task details, including:  1. Component Name 2.Time per Page (minutes) 3. Number of Pages
