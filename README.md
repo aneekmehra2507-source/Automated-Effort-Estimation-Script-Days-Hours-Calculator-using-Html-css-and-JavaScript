@@ -2,7 +2,7 @@
 
 Developed a responsive and interactive web-based tool using HTML, CSS, and JavaScript that allows users to estimate total time required for completing multiple components or tasks.
 
-<h2>key Features:</h2>
+<h2>Key Features:</h2>
 
 Users can input component/task details, including:
 
