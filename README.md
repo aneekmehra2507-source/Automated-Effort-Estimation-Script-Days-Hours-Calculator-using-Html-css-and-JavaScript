@@ -1,4 +1,4 @@
- <h1>Automated-Effort-Estimation-Script-Days-Hours-Calculator-using-Html-css-and-JavaScript</h1>
+<h1>Automated-Effort-Estimation-Script-Days-Hours-Calculator-using-Html-css-and-JavaScript</h1>
 
 Developed a responsive and interactive web-based tool using HTML, CSS, and JavaScript that allows users to estimate total time required for completing multiple components or tasks.
 
